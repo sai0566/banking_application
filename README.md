@@ -146,7 +146,7 @@ python-banking-system/
 
 1️⃣ Clone the repository
 
-**git clone https://github.com/sai0566/banking\_application.git**
+**git clone https://github.com/sai0566/banking_application.git
 
 
 
